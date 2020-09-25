@@ -8,22 +8,22 @@ The project is based on all the labs passed and students are allowed to use them
 
 ### 0. Describe your project in the `README.md` file
 
-  1. List of all the work performed (briefly, describing features and bonus tasks).
-  2. Instructions:
+1. List of all the work performed (briefly, describing features and bonus tasks).
+
+2. Instructions:
+  - Installation
+  - Usage
+  - Testing
   
-    - Installation
-    - Usage
-    - Testing
-    
-  4. All the necessary links with the integrated platforms and tools:
+4. All the necessary links with the integrated platforms and tools:
+  - Travis CI
+  - Heroku
+  - Docker Hub
+  - ...
   
-    - Travis CI
-    - Heroku
-    - Docker Hub
-    - ...
-    
-  4. Authors (first name, last name and the group number)
-  5. Other additional info that you want to include
+4. Authors (first name, last name and the group number)
+
+5. Other additional info that you want to include
 
 ### 1. Create a web application
 
