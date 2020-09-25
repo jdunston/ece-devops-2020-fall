@@ -10,14 +10,18 @@ The project is based on all the labs passed and students are allowed to use them
 
   1. List of all the work performed (briefly, describing features and bonus tasks).
   2. Instructions:
+  
     - Installation
     - Usage
     - Testing
+    
   4. All the necessary links with the integrated platforms and tools:
+  
     - Travis CI
     - Heroku
     - Docker Hub
     - ...
+    
   4. Authors (first name, last name and the group number)
   5. Other additional info that you want to include
 
