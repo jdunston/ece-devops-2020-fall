@@ -2,7 +2,7 @@
 
 **Note!** This is not a complete document. There will be few more sections added closer to December 2020.
 
-The project is based on all the labs passed and students are allowed to use them.
+The project is based on all the labs passed and students are allowed to use them. Work on a project can be carried out by 1 student or a team of 2 or a maximum of 3 students.
 
 ## Instructions
 
